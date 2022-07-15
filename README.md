@@ -1,2 +1,2 @@
-# Ruby-Resources
-Diversos recursos sobre como hacer/funcionan diversas cosas en Ruby.
+# Recursos sobre Ruby:computer::mag_right:
+Creé este repositorio con el fin de reunir en un solo lugar todos los documentos, scripts, webs, etc, que me han ayudado a aprender y solucionar diversos problemas a la hora de programar en **Ruby**. Espero este repositorio pueda servir a aprender/resolver problemas que se le puedan presentar a alguien a la hora de programar en este gran lenguaje llamado **Ruby**.
